@@ -1,8 +1,6 @@
-# 🎬 Real-Time ML Feature Store — Content Recommendation Engine
+# Real-Time ML Feature Store — Content Recommendation Engine
 
 A production-pattern **online feature store** using **Redis + FastAPI + Spark**, designed for low-latency ML inference in content search & ranking pipelines.
-
-> **Disney+ Search ML alignment:** This project directly mirrors the architecture described in Disney's Search ML Data Engineer role — offline Spark ETL, near-line Kafka pipelines, and Redis online serving integrated with ML inference.
 
 ---
 
